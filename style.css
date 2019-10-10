@@ -1,12 +1,14 @@
 body {
     background: #fbfbfb;
 }
+
 /*.menu ul li a{
     font-size: 20px;
     font-family: cursive;
     font-weight: bold;
 
 }*/
+
 .wrapper header.header {
     background-image: url("img/header-bg.jpg");
     background-size: 100% auto;
@@ -78,6 +80,27 @@ body {
     width: 75px;
 }
 
+.tab-head .row {
+    position: fixed;
+    top: 0;;
+    left: 15px;
+    width: 100%;
+    padding: 0;
+    z-index: 10000;
+    transition: all 0.2s ease-in-out;
+    height: 80px;
+    background: #00d7e9;
+    text-align: center;
+    line-height: 40px;
+}
+
+.tab-head .row.active {
+    background-color: rgba(250, 250, 250, 0.75);
+    -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+}
+
 .wrapper header.header .white img,
 .wrapper header.header .blue img {
     width: 100%;
@@ -93,11 +116,13 @@ body {
 
 .wrapper header.header .logo h2 {
     margin: 0;
-    padding: 0
+    padding: 0;
+    margin-top: 20px;
 }
 
+
 .wrapper header.header .logo h2 a {
-    font-family: 'Croissant One', cursive;
+    font-family: 'Tahoma', cursive;
     font-size: 21px;
     font-weight: 400;
     text-decoration: none;
@@ -105,7 +130,7 @@ body {
 }
 
 .wrapper header.header ul.nav.navbar-nav li a {
-    font-family: cursive, sans-serif;
+    font-family: sans-serif, Tahoma;
     font-size: 15px;
     font-weight: 600;
     color: #fff;
@@ -119,9 +144,11 @@ body {
 .wrapper header.header ul.nav.navbar-nav li :hover {
     background: transparent
 }
-.header-text{
+
+.header-text {
     margin-bottom: 196px !important;
 }
+
 .wrapper header.header .header-text {
     margin: 0 auto;
     padding-top: 130px;
@@ -131,7 +158,7 @@ body {
 
 .wrapper header.header .header-text h1 {
     color: #fff;
-    font-family: "Raleway", sans-serif;
+    font-family: "Tahoma", sans-serif;
     font-size: 65px;
     font-weight: 600;
     margin-bottom: 25px;
@@ -175,7 +202,8 @@ body {
     background: #fff;
     color: #11bdd7;
 }
-.another-text{
+
+.another-text {
     margin-left: 15px !important;
 }
 
@@ -298,8 +326,8 @@ body {
     margin: 55px auto 25px;
     width: fit-content;
     width: -moz-fit-content;
-    width: -webkit-fit-content;
-    width: -o-fit-content;
+    /*width: -webkit-fit-content;*/
+    /*width: -o-fit-content;*/
 }
 
 .wrapper section.development .design-development h2::before {
@@ -465,7 +493,7 @@ body {
     opacity: 0;
 }
 
-.wrapper section.portfolia .portfolio-part:hover>.overlay-slide {
+.wrapper section.portfolia .portfolio-part:hover > .overlay-slide {
     opacity: 1;
 }
 
@@ -507,7 +535,8 @@ div.wrapper section.portfolia div.penination p {
     width: -moz-fit-content;
     border-radius: 30px/30px;
 }
-div.wrapper section.portfolia div.penination a{
+
+div.wrapper section.portfolia div.penination a {
     text-decoration: none;
     color: #fff;
 }
@@ -529,14 +558,17 @@ div.wrapper section.portfolia div.penination a{
     position: relative;
     width: -moz-fit-content;
     padding-bottom: 25px;
+    text-align: center;
 }
+.wrapper section.our-team item{
 
+}
 .wrapper section.our-team .team-text h2::before {
     background: #455a64 none repeat scroll 0 0;
     bottom: 0;
     content: "";
     height: 2px;
-    left: 65px;
+    left: 665px;
     position: absolute;
     width: 75px;
 }
@@ -550,10 +582,29 @@ div.wrapper section.portfolia div.penination a{
     margin: 0 auto;
     padding-top: 10px;
     width: -moz-fit-content;
+    text-align: center;
 }
-.our-team img{
+.wrapper section.our-team .item {
+    margin-left: 40px;
+}
+
+.our-team img {
     border-radius: 10px;
     height: 200px;
+    margin-left: 105px;
+}
+.our-team .item-text {
+    text-align: center;
+}
+.our-team .item-text a {
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+section.space .empty-space{
+    background: #1aa0b7;
+    width: 100%;
+    height: 80px;
 }
 
 .wrapper section.our-team .my-claint {
@@ -603,7 +654,7 @@ div.wrapper section.portfolia div.penination a{
     opacity: 1;
 }
 
-.wrapper section.our-team .my-claint .owl-item.active.center .item>.item-text {
+.wrapper section.our-team .my-claint .owl-item.active.center .item > .item-text {
     opacity: 1
 }
 
@@ -724,11 +775,12 @@ div.wrapper section.portfolia div.penination a{
     width: 45%;
 }
 
-.wrapper section.contact .contact-form input {}
+.wrapper section.contact .contact-form input {
+}
 
 .wrapper section.contact .contact-form input[type="text"] {
     background: transparent none repeat scroll 0 0;
-    border-color: -moz-use-text-color -moz-use-text-color #cfd8dc;
+    /*border-color: -moz-use-text-color -moz-use-text-color #cfd8dc;*/
     border-image: none;
     border-style: none none solid;
     border-width: medium medium 1px;
@@ -754,7 +806,7 @@ div.wrapper section.portfolia div.penination a{
 
 .wrapper section.contact .contact-form input[type="email"] {
     background: transparent none repeat scroll 0 0;
-    border-color: -moz-use-text-color -moz-use-text-color #cfd8dc;
+    /*border-color: -moz-use-text-color -moz-use-text-color #cfd8dc;*/
     border-image: none;
     border-style: none none solid;
     border-width: medium medium 1px;
@@ -781,7 +833,7 @@ div.wrapper section.portfolia div.penination a{
 
 .wrapper section.contact .contact-form .message textarea {
     background: transparent none repeat scroll 0 0;
-    border-color: -moz-use-text-color -moz-use-text-color #cfd8dc;
+    /*border-color: -moz-use-text-color -moz-use-text-color #cfd8dc;*/
     border-image: none;
     border-style: none none solid;
     border-width: medium medium 1px;
@@ -892,4 +944,11 @@ div.wrapper section.portfolia div.penination a{
     font-weight: 600;
     color: #4c797d;
     text-decoration: none;
+}
+
+#mu-contact {
+    background-color: #fff;
+    display: inline;
+    float: left;
+    width: 100%;
 }

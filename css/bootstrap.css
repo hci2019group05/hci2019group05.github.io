@@ -2491,6 +2491,8 @@ pre code {
     }
     .col-md-9 {
         width: 75%;
+        margin-top: 15px;
+        padding-right: 75px;
     }
     .col-md-8 {
         width: 66.66666667%;
