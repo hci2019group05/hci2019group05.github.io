@@ -8,6 +8,9 @@ body {
     font-weight: bold;
 
 }*/
+#week2 .img-group{
+    text-align: center;
+}
 
 .wrapper header.header {
     background-image: url("img/header-bg.jpg");
