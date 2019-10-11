@@ -563,17 +563,19 @@ div.wrapper section.portfolia div.penination a {
     padding-bottom: 25px;
     text-align: center;
 }
-.wrapper section.our-team item{
 
-}
+
+
 .wrapper section.our-team .team-text h2::before {
     background: #455a64 none repeat scroll 0 0;
     bottom: 0;
     content: "";
     height: 2px;
-    left: 665px;
+    left: 50%;
+    margin-left: -38px ;
     position: absolute;
-    width: 75px;
+    width: 76px;
+
 }
 
 .wrapper section.our-team .team-text p {
@@ -587,24 +589,32 @@ div.wrapper section.portfolia div.penination a {
     width: -moz-fit-content;
     text-align: center;
 }
-.wrapper section.our-team .item {
-    margin-left: 40px;
+.wrapper section.our-team item {
+    margin: auto;
+}
+.our-team .img {
+    width: 200px;
+    height: 200px;
+    margin: auto;
 }
 
 .our-team img {
     border-radius: 10px;
     height: 200px;
-    margin-left: 105px;
+    width: 200px;
+    margin: auto;
 }
+
 .our-team .item-text {
     text-align: center;
 }
+
 .our-team .item-text a {
     margin-left: 7px;
     margin-right: 7px;
 }
 
-section.space .empty-space{
+section.space .empty-space {
     background: #1aa0b7;
     width: 100%;
     height: 80px;
