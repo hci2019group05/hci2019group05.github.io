@@ -563,15 +563,14 @@ div.wrapper section.portfolia div.penination a {
     padding-bottom: 25px;
     text-align: center;
 }
-.wrapper section.our-team item{
 
-}
 .wrapper section.our-team .team-text h2::before {
     background: #455a64 none repeat scroll 0 0;
     bottom: 0;
     content: "";
     height: 2px;
-    left: 665px;
+    left: 50%;
+    margin-left: -38px ;
     position: absolute;
     width: 75px;
 }
@@ -588,13 +587,19 @@ div.wrapper section.portfolia div.penination a {
     text-align: center;
 }
 .wrapper section.our-team .item {
-    margin-left: 40px;
+    margin: auto;
 }
 
+.our-team .img {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
 .our-team img {
     border-radius: 10px;
+    width: 200px;
     height: 200px;
-    margin-left: 105px;
+    margin: auto;
 }
 .our-team .item-text {
     text-align: center;
