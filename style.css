@@ -8,7 +8,7 @@ body {
     font-weight: bold;
 
 }*/
-#week2 .img-group{
+#week2 .img-group {
     text-align: center;
 }
 
@@ -559,17 +559,20 @@ div.wrapper section.portfolia div.penination a {
     padding-bottom: 25px;
     text-align: center;
 }
-.wrapper section.our-team item{
+
+.wrapper section.our-team item {
 
 }
+
 .wrapper section.our-team .team-text h2::before {
     background: #455a64 none repeat scroll 0 0;
     bottom: 0;
     content: "";
     height: 2px;
-    left: 665px;
+    left: 50%;
     position: absolute;
-    width: 75px;
+    margin-left: -38px;
+    width: 76px;
 }
 
 .wrapper section.our-team .team-text p {
@@ -583,24 +586,30 @@ div.wrapper section.portfolia div.penination a {
     width: -moz-fit-content;
     text-align: center;
 }
-.wrapper section.our-team .item {
-    margin-left: 40px;
+.our-team .other{
+    margin-top: 50px;
 }
 
 .our-team img {
     border-radius: 10px;
+    width: 200px;
     height: 200px;
-    margin-left: 105px;
 }
+.our-team .item-img{
+    width: 200px;
+    margin: auto;
+}
+
 .our-team .item-text {
     text-align: center;
 }
+
 .our-team .item-text a {
     margin-left: 7px;
     margin-right: 7px;
 }
 
-section.space .empty-space{
+section.space .empty-space {
     background: #1aa0b7;
     width: 100%;
     height: 80px;
@@ -951,21 +960,24 @@ section.space .empty-space{
     float: left;
     width: 100%;
 }
+
 footer {
     margin-top: -6px;
     background-color: #373a3c;
     padding: 50px 0px;
 }
+
 footer .logo em {
     font-style: normal;
     font-size: 28px;
     color: #f7c552;
 }
+
 footer .logo-ft {
     display: inline-block;
     margin-top: 15px;
     text-decoration: none;
-    color: #fff!important;
+    color: #fff !important;
     font-size: 21px;
     font-weight: 900;
     text-transform: uppercase;
@@ -1074,6 +1086,7 @@ footer .connect-us ul li a {
     font-size: 15px;
     transition: all 0.3s;
 }
+
 footer .connect-us ul li a:hover {
     background-color: #f7c552;
 }
