@@ -69,7 +69,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="team-text" style="text-align: center">
-                        <h2>Group Diary</h2>
+                        <h2 id="group-diary-title" class="group-diary-title">Group diary</h2>
                     </div>
                 </div>
             </div>
@@ -77,19 +77,19 @@
                 <div class="col-md-12">
                     <ul class="nav nav-tabs">
                         <li class="nav-item active in">
-                            <a class="nav-link" data-toggle="tab" href="#week1">Week1</a>
+                            <a class="nav-link" data-toggle="tab" href="#week1" onclick="setTitle('Week 1')">Week1</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#week2">Week2</a>
+                            <a class="nav-link" data-toggle="tab" href="#week2" onclick="setTitle('Week 2')">Week2</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#week3">Week3</a>
+                            <a class="nav-link" data-toggle="tab" href="#week3" onclick="setTitle('Week 3')">Week3</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#week4">Week4</a>
+                            <a class="nav-link" data-toggle="tab" href="#week4" onclick="setTitle('Week 4')">Week4</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#week5">Week5</a>
+                            <a class="nav-link" data-toggle="tab" href="#week5" onclick="setTitle('Week 5')">Week5</a>
                         </li>
                     </ul>
                     <div class="tab-content">
@@ -279,7 +279,7 @@
                             </div>
                             <div class="img-group">
                                 <p>My Team</p>
-                                <img src="img/meet.jpg" style="margin: auto ">
+                                <img src="img/meet2.PNG" style="margin: auto ">
                             </div>
                         </div>
                         <div id="week4" class="container tab-pane fade"><br>
@@ -457,6 +457,11 @@
 <script src="js/bootstrap.min.js"></script>
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/active.js"></script>
+<script>
+    function setTitle(title) {
+        document.getElementById('group-diary-title').innerHTML = title;
+    }
+</script>
 </body>
 
 </html>

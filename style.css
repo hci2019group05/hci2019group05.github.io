@@ -8,8 +8,9 @@ body {
     font-weight: bold;
 
 }*/
-#week2 .img-group {
-    text-align: center;
+.img-group {
+    text-align: left;
+
 }
 
 .wrapper header.header {
