@@ -8,12 +8,13 @@ body {
     font-weight: bold;
 
 }*/
-#week2 .img-group {
-    text-align: center;
+.img-group {
+    text-align: left;
+
 }
 
 .wrapper header.header {
-    background-image: url("img/header-bg.jpg");
+    background-image: url("../img/header-bg.jpg");
     background-size: 100% auto;
     height: auto;
     overflow: hidden;
@@ -134,8 +135,8 @@ body {
 
 .wrapper header.header ul.nav.navbar-nav li a {
     font-family: sans-serif, Tahoma;
-    font-size: 15px;
-    font-weight: 600;
+    font-size: 16px;
+    /*font-weight: 600;*/
     color: #fff;
     text-transform: uppercase;
 }
@@ -162,8 +163,8 @@ body {
 .wrapper header.header .header-text h1 {
     color: #fff;
     font-family: "Tahoma", sans-serif;
-    font-size: 65px;
-    font-weight: 600;
+    /*font-size: 65px;*/
+    /*font-weight: 600;*/
     margin-bottom: 25px;
     padding-bottom: 20px;
     position: relative;
@@ -551,8 +552,8 @@ div.wrapper section.portfolia div.penination a {
 .wrapper section.our-team .team-text h2 {
     color: #455a64;
     font-family: "Raleway", sans-serif;
-    font-size: 40px;
-    font-weight: 700;
+    /*font-size: 40px;*/
+    /*font-weight: 700;*/
     margin: 0 auto;
     position: relative;
     width: -moz-fit-content;
@@ -899,7 +900,7 @@ section.space .empty-space {
 }
 
 .wrapper footer.footer {
-    background-image: url("img/footer-bg.jpg");
+    background-image: url("../img/footer-bg.jpg");
     background-size: 100% 100%;
     height: 400px;
     margin-top: 100px;
