@@ -11,3 +11,14 @@ ul li{
     font-weight: 400;
     line-height: 30px;
 }
+.wrapper section.development .design-development h2 {
+    position: relative;
+    color: #455a64;
+    font-family: "Raleway", sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    margin: 55px 0 25px;
+    width: 500px;
+    width: -moz-fit-content;
+    width: -webkit-fit-content;
+}
