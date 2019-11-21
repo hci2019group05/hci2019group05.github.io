@@ -1,0 +1,13 @@
+.wrapper section.development .design-development {
+    text-align: left;
+}
+ul li{
+    list-style-type: none;
+}
+.wrapper section.development .design-development p {
+    color: #000;
+    font-family: Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+}

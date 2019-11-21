@@ -268,6 +268,10 @@ body {
     padding-top: 50px
 }
 
+/*.wrapper section.development .design-development h2 {*/
+/*    text-align: left;*/
+/*}*/
+
 .wrapper section.development .design-development i {
     font-size: 41px;
     background: #f48fb1;
@@ -587,7 +591,8 @@ div.wrapper section.portfolia div.penination a {
     width: -moz-fit-content;
     text-align: center;
 }
-.our-team .other{
+
+.our-team .other {
     margin-top: 50px;
 }
 
@@ -596,7 +601,8 @@ div.wrapper section.portfolia div.penination a {
     width: 200px;
     height: 200px;
 }
-.our-team .item-img{
+
+.our-team .item-img {
     width: 200px;
     margin: auto;
 }
