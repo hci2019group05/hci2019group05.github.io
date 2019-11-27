@@ -11,8 +11,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -28,7 +28,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -38,11 +38,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\COMPUTER\Desktop\hci2019group05.github.io-master\figma" />
+      <recent name="C:\Users\COMPUTER\Desktop\hci2019group05.github.io-master\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\COMPUTER\Desktop\hci2019group05.github.io-master\css" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\COMPUTER\Desktop\hci2019group05.github.io-master\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -72,7 +73,9 @@
       <workItem from="1571848743258" duration="146000" />
       <workItem from="1572273615249" duration="2265000" />
       <workItem from="1573089980209" duration="1319000" />
-      <workItem from="1574343517521" duration="8974000" />
+      <workItem from="1574343517521" duration="9232000" />
+      <workItem from="1574386326006" duration="40000" />
+      <workItem from="1574860636839" duration="8508000" />
     </task>
     <servers />
   </component>

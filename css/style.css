@@ -969,7 +969,7 @@ section.space .empty-space {
 }
 
 footer {
-    margin-top: -6px;
+    margin-top: 15px;
     background-color: #373a3c;
     padding: 50px 0px;
 }
@@ -1096,4 +1096,22 @@ footer .connect-us ul li a {
 
 footer .connect-us ul li a:hover {
     background-color: #f7c552;
+}
+.download-paper{
+    margin-top: 20px;
+}
+.download-figma{
+    margin-top: 20px;
+}
+
+.btn {
+    background-color: #dddddd;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.btn:hover {
+    background-color: aqua;
 }
