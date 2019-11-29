@@ -6,12 +6,7 @@ body {
 }
 
 
-/*.menu ul li a{
-    font-size: 20px;
-    font-family: cursive;
-    font-weight: bold;
 
-}*/
 .img-group {
     text-align: left;
 
@@ -130,7 +125,7 @@ body {
 
 
 .wrapper header.header .logo h2 a {
-    font-family: 'Tahoma', cursive;
+
     font-size: 21px;
     font-weight: 400;
     text-decoration: none;
@@ -774,7 +769,7 @@ section.space .empty-space {
     color: #92a5af;
 
     font-size: 15px;
-    
+
     padding-top: 5px;
 }
 
