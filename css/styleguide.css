@@ -2099,16 +2099,7 @@ a.offscreen:focus, a.offscreen:active, a.offscreen:hover {
     hyphens: none
 }
 
-.accordion button {
-    border: none;
-    font-weight: 700;
-    font-size: 2.2rem;
-    line-height: 1.4;
-    color: #0a737b;
-    padding: 0;
-    background: 0 0;
-    text-align: left
-}
+/*s*/
 
 .accordion__panel {
     margin-top: 1.2rem;
