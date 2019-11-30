@@ -1135,6 +1135,28 @@ footer .connect-us ul li a:hover {
     margin-top: 20px;
     text-align: center;
 }
+.button-download-all{
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    padding: 1.2rem 2.4rem calc(1.2rem + 3px);
+    background: #f7c552;
+    color: #fff;
+    box-shadow: inset 0 -5px rgba(17, 17, 17, .3);
+    border-radius: 3px;
+    margin: 0 1.5rem 1rem 0;
+
+    font-size: 16px;
+
+}
+.button-download-all:hover{
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: #a73636;
+    font-size: 16px;
+
+}
+
 .button-main{
     display: inline-block;
     position: relative;
@@ -1144,7 +1166,7 @@ footer .connect-us ul li a:hover {
     color: #fff;
     box-shadow: inset 0 -5px rgba(17, 17, 17, .3);
     border-radius: 3px;
-    text-shadow: 1px 1px 0 #983c35;
+   font-size: 16px;
     margin: 0 1.5rem 1rem 0;
 
 }
@@ -1152,6 +1174,8 @@ footer .connect-us ul li a:hover {
     text-decoration: none;
     color: whitesmoke;
     background-color: #a73636;
+    font-weight: bold;
+    font-size: 16px;
 
 }
 
@@ -1239,5 +1263,52 @@ footer .connect-us ul li a:hover {
 .breadcrumb li a:hover { background: #ffc107  ; }
 .breadcrumb li a:hover:after { border-left-color: #ffc107   !important; }
 
-/*According*/
+/*Accordion*/
+.accordion {
+    background-color: #026c7d;
+    color: #fff;
+    cursor: pointer;
+    padding: 18px;
+    width: 342%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.6s;
+    border-radius: 6px;
+}
 
+.accordion:hover {
+    background-color: #00d7e9;
+}
+.actived2{
+    background-color: #063f48;
+}
+
+.accordion:after {
+    content: '\002B';
+    color: #fff;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
+
+.actived2:after {
+    content: "\2212";
+    color: whitesmoke;
+}
+
+.panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    width: 900px;
+}
+a:hover{
+    text-decoration: none!important;
+    color: #0c5460;
+    font-weight: 600;
+
+}

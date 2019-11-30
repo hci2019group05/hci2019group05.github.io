@@ -13,6 +13,7 @@
       <list>
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="SCSS File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -30,7 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/figma" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -41,15 +42,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\COMPUTER\Desktop\hci2019group05.github.io-master\css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\web-githubs\hci2019group05.github.io\figma" />
       <recent name="E:\web-githubs\hci2019group05.github.io\js" />
       <recent name="E:\web-githubs\hci2019group05.github.io" />
       <recent name="E:\web-githubs\hci2019group05.github.io\css" />
       <recent name="E:\web-githubs\hci2019group05.github.io\img" />
-      <recent name="C:\Users\COMPUTER\Desktop\hci2019group05.github.io-master\figma" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\COMPUTER\Desktop\hci2019group05.github.io-master\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -83,7 +84,8 @@
       <workItem from="1574386326006" duration="40000" />
       <workItem from="1574860636839" duration="8508000" />
       <workItem from="1575004374916" duration="21224000" />
-      <workItem from="1575036937442" duration="10304000" />
+      <workItem from="1575036937442" duration="10356000" />
+      <workItem from="1575076166059" duration="10200000" />
     </task>
     <servers />
   </component>
