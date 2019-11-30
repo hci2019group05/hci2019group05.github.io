@@ -1264,7 +1264,7 @@ footer .connect-us ul li a:hover {
 .breadcrumb li a:hover:after { border-left-color: #ffc107   !important; }
 
 /*Accordion*/
-.accordion {
+.accordion2 {
     background-color: #026c7d;
     color: #fff;
     cursor: pointer;
@@ -1278,14 +1278,14 @@ footer .connect-us ul li a:hover {
     border-radius: 6px;
 }
 
-.accordion:hover {
+.accordion2:hover {
     background-color: #00d7e9;
 }
 .actived2{
     background-color: #063f48;
 }
 
-.accordion:after {
+.accordion2:after {
     content: '\002B';
     color: #fff;
     font-weight: bold;
