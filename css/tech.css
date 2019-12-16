@@ -6,7 +6,7 @@ ul li{
 }
 .wrapper section.development .design-development p {
     color: #000;
-    font-family: Tahoma, sans-serif;
+
     font-size: 16px;
     font-weight: 400;
     line-height: 30px;
@@ -14,7 +14,6 @@ ul li{
 .wrapper section.development .design-development h2 {
     position: relative;
     color: #455a64;
-    font-family: "Raleway", sans-serif;
     font-size: 25px;
     font-weight: 700;
     margin: 55px 0 25px;
