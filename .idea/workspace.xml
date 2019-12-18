@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67dd808e-c599-4234-9944-e06b198fa5bc" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +30,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/design" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -42,26 +41,27 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\COMPUTER\Desktop\hci2019group05.github.io-master\css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\COMPUTER\Desktop\hci2019group05.github.io-master\img\design" />
       <recent name="E:\web-githubs\hci2019group05.github.io\js" />
       <recent name="E:\web-githubs\hci2019group05.github.io\css" />
       <recent name="E:\web-githubs\hci2019group05.github.io\figma" />
       <recent name="E:\web-githubs\hci2019group05.github.io" />
-      <recent name="E:\web-githubs\hci2019group05.github.io\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\COMPUTER\Desktop\hci2019group05.github.io-master\img\design" />
+      <recent name="C:\Users\COMPUTER\Desktop\hci2019group05.github.io-master\css" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -88,6 +88,12 @@
       <workItem from="1575076166059" duration="10200000" />
       <workItem from="1575117171236" duration="305000" />
       <workItem from="1575117891737" duration="1900000" />
+      <workItem from="1575429359676" duration="964000" />
+      <workItem from="1576072400588" duration="606000" />
+      <workItem from="1576112773669" duration="2721000" />
+      <workItem from="1576157181287" duration="5694000" />
+      <workItem from="1576513190143" duration="4641000" />
+      <workItem from="1576586490052" duration="20051000" />
     </task>
     <servers />
   </component>
