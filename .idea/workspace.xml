@@ -31,7 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/design" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -42,15 +42,16 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\COMPUTER\Desktop\hci2019group05.github.io-master\css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\COMPUTER\Desktop\hci2019group05.github.io-master\img\design" />
       <recent name="E:\web-githubs\hci2019group05.github.io\js" />
       <recent name="E:\web-githubs\hci2019group05.github.io\css" />
       <recent name="E:\web-githubs\hci2019group05.github.io\figma" />
       <recent name="E:\web-githubs\hci2019group05.github.io" />
-      <recent name="E:\web-githubs\hci2019group05.github.io\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\COMPUTER\Desktop\hci2019group05.github.io-master\img\design" />
+      <recent name="C:\Users\COMPUTER\Desktop\hci2019group05.github.io-master\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -93,6 +94,7 @@
       <workItem from="1576112773669" duration="2721000" />
       <workItem from="1576157181287" duration="5694000" />
       <workItem from="1576513190143" duration="4641000" />
+      <workItem from="1576586490052" duration="20051000" />
     </task>
     <servers />
   </component>
