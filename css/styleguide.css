@@ -724,7 +724,7 @@ a:focus {
 
 .constrain {
     max-width: 120rem;
-    margin: auto;
+    /*margin: auto;*/
 
 }
 
@@ -864,7 +864,7 @@ a:focus {
 }
 
 .main-area-content {
-    padding-top: 3rem;
+    /*padding-top: 3rem;*/
     padding-bottom: 2rem;
 
 }
