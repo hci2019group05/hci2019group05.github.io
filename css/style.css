@@ -1180,12 +1180,12 @@ footer .connect-us ul li a:hover {
 }
 
 .btn {
-    background-color: #dddddd;
+    background-color: #ffc107;
     border: none;
     color: black;
     cursor: pointer;
     font-size: 14px;
-    width: 30%;
+    /*width: 30%;*/
     text-align: left;
 }
 
@@ -1267,8 +1267,9 @@ footer .connect-us ul li a:hover {
 
 /*Accordion*/
 .accordion2 {
-    background-color: #026c7d;
-    color: #fff;
+    background-color: rgba(0, 0, 0, .03);;
+    border-bottom: 1px solid rgba(0, 0, 0, .125);
+    color: #007bff;
     cursor: pointer;
     padding: 12px;
     width: 100%;
@@ -1281,10 +1282,10 @@ footer .connect-us ul li a:hover {
 }
 
 .accordion2:hover {
-    background-color: #00d7e9;
+    /*background-color: #a19b9b;*/
 }
 .actived2{
-    background-color: #063f48;
+    /*background-color: #063f48;*/
 }
 
 .accordion2:after {
@@ -1293,6 +1294,7 @@ footer .connect-us ul li a:hover {
     font-weight: bold;
     float: right;
     margin-left: 5px;
+    display: none;
 }
 
 .actived2:after {
@@ -1320,3 +1322,6 @@ a:hover{
     margin-bottom: 3px;
 }
 
+#im .accordion2-link{
+    float: right;
+}
