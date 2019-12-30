@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67dd808e-c599-4234-9944-e06b198fa5bc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +47,10 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\COMPUTER\Desktop\hci2019group05.github.io-master\img\design" />
+      <recent name="C:\Users\COMPUTER\Desktop\hci2019group05.github.io-master\css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\COMPUTER\Desktop\hci2019group05.github.io-master\img\design" />
       <recent name="E:\web-githubs\hci2019group05.github.io\js" />
@@ -53,20 +58,16 @@
       <recent name="E:\web-githubs\hci2019group05.github.io\figma" />
       <recent name="E:\web-githubs\hci2019group05.github.io" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\COMPUTER\Desktop\hci2019group05.github.io-master\img\design" />
-      <recent name="C:\Users\COMPUTER\Desktop\hci2019group05.github.io-master\css" />
-    </key>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
+  <component name="RunDashboard">
+    <option name="ruleStates">
       <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
       </list>
     </option>
   </component>
@@ -99,8 +100,15 @@
       <workItem from="1576157181287" duration="5694000" />
       <workItem from="1576513190143" duration="4641000" />
       <workItem from="1576586490052" duration="20051000" />
+<<<<<<< HEAD
       <workItem from="1576769132162" duration="68000" />
       <workItem from="1577710013519" duration="782000" />
+=======
+      <workItem from="1577324322589" duration="7179000" />
+      <workItem from="1577367141698" duration="3758000" />
+      <workItem from="1577374926015" duration="2173000" />
+      <workItem from="1577452178211" duration="7052000" />
+>>>>>>> 9bd42ebbd6b121815ce60d69ec8876c48932c7ee
     </task>
     <servers />
   </component>
