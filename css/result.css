@@ -1,0 +1,71 @@
+h5 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+* {
+    font-family: "Roboto", sans-serif !important;
+
+}
+
+.team-text {
+    margin-bottom: 10px;
+}
+
+.item-text ul li {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.owl-theme .item {
+    border: 1px solid black;
+    width: 28%;
+    margin: 15px 30px;
+    height: 400px;
+}
+
+.other {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.item-text .item-text1 {
+    border-bottom: 1px dashed black;
+}
+
+.item-text .item-text2 {
+    border-bottom: 1px dashed black;
+}
+
+.item-text .item-text3 {
+    border-bottom: 1px dashed black;
+}
+
+.item-text .item-text3 ul li {
+    color: red;
+}
+
+.item-text .item-text4 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.item-text .item-text4 button {
+    background-color: #ffc107 !important;
+    border-radius: 8px;
+    display: inline-block;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    margin-left: -56px;
+    width: 30%;
+    bottom: 10px;
+    color: #337ab7;
+}
+
+.item-text .item-text4 a:hover button{
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #e4a704 !important;
+}

@@ -10,10 +10,10 @@ article, aside, footer, header, nav, section {
     display: block;
 }
 
-h1 {
-    font-size: 2em;
-    margin: .67em 0
-}
+/*h1 {*/
+/*    font-size: 2em;*/
+/*    margin: .67em 0*/
+/*}*/
 
 figcaption, figure, main {
     display: block
@@ -724,7 +724,7 @@ a:focus {
 
 .constrain {
     max-width: 120rem;
-    margin: auto;
+    /*margin: auto;*/
 
 }
 
@@ -864,7 +864,7 @@ a:focus {
 }
 
 .main-area-content {
-    padding-top: 3rem;
+    /*padding-top: 3rem;*/
     padding-bottom: 2rem;
 
 }
@@ -1971,7 +1971,7 @@ a.offscreen:focus, a.offscreen:active, a.offscreen:hover {
 
 .main-area .sg-header {
     border-bottom: 1px solid #d9d3d3;
-    padding-bottom: .5rem
+
 }
 
 .main-area .sg-block {

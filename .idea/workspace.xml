@@ -24,13 +24,18 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/design" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -94,6 +99,8 @@
       <workItem from="1576157181287" duration="5694000" />
       <workItem from="1576513190143" duration="4641000" />
       <workItem from="1576586490052" duration="20051000" />
+      <workItem from="1576769132162" duration="68000" />
+      <workItem from="1577710013519" duration="782000" />
     </task>
     <servers />
   </component>
@@ -115,5 +122,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="204" key="FileChooserDialogImpl" timestamp="1576769197439">
+      <screen x="0" y="0" width="1537" height="900" />
+    </state>
+    <state x="548" y="204" key="FileChooserDialogImpl/0.0.1537.900@0.0.1537.900" timestamp="1576769197439" />
+    <state x="465" y="187" width="607" height="526" key="find.popup" timestamp="1577710768572">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state x="465" y="187" width="607" height="526" key="find.popup/0.0.1538.900@0.0.1538.900" timestamp="1577710768572" />
   </component>
 </project>
