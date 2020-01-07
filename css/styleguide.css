@@ -10,10 +10,10 @@ article, aside, footer, header, nav, section {
     display: block;
 }
 
-h1 {
-    font-size: 2em;
-    margin: .67em 0
-}
+/*h1 {*/
+/*    font-size: 2em;*/
+/*    margin: .67em 0*/
+/*}*/
 
 figcaption, figure, main {
     display: block
@@ -1971,7 +1971,7 @@ a.offscreen:focus, a.offscreen:active, a.offscreen:hover {
 
 .main-area .sg-header {
     border-bottom: 1px solid #d9d3d3;
-    padding-bottom: .5rem
+
 }
 
 .main-area .sg-block {
