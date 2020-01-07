@@ -1,74 +1,74 @@
-    @media (min-width: 1440px) and (max-width: 1745px) {
-        .wrapper header.header .white {
-            bottom: -110px;
-        }
-        .wrapper header.header .blue {
-            bottom: -80px;
-        }
-        .wrapper header.header .another-text {
-            margin-left: 100px;
-        }
-        .wrapper section.contact .white {
-            bottom: 40px;
-        }
-        .wrapper section.contact .blue {
-            bottom: 40px;
-        }
-    }
+    /*@media (min-width: 1440px) and (max-width: 1745px) {*/
+    /*    .wrapper header.header .white {*/
+    /*        bottom: -110px;*/
+    /*    }*/
+    /*    .wrapper header.header .blue {*/
+    /*        bottom: -80px;*/
+    /*    }*/
+    /*    .wrapper header.header .another-text {*/
+    /*        margin-left: 100px;*/
+    /*    }*/
+    /*    .wrapper section.contact .white {*/
+    /*        bottom: 40px;*/
+    /*    }*/
+    /*    .wrapper section.contact .blue {*/
+    /*        bottom: 40px;*/
+    /*    }*/
+    /*}*/
     
-    @media (min-width: 1200px) and (max-width: 1439px) {
-        .wrapper header.header {
-            background-size: 100% auto;
-            height: auto;
-        }
-        .wrapper header.header .header-text {
-            padding-top: 45px;
-        }
-        .wrapper header.header .blue {
-            bottom: -178px;
-        }
-        .wrapper header.header .white {
-            bottom: -205px;
-        }
-        .wrapper header.header .header-text button {
-            margin-bottom: 80px;
-        }
-        .wrapper section.development {
-            padding-bottom: 205px;
-        }
-        .wrapper section.development .white {
-            bottom: -83px;
-        }
-        .wrapper section.development .blue {
-            bottom: -60px;
-        }
-        .wrapper section.development {
-            height: 600px;
-            overflow: hidden;
-        }
-        .wrapper section.portfolia .portfolio-part .overlay-slide h2 {
-            margin-top: 75px;
-        }
-        .wrapper section.portfolia .portfolio-part .overlay-slide h2::before {
-            width: 265px;
-        }
-        .wrapper section.portfolia .portfolio-part .overlay-slide {
-            height: 281px;
-        }
-        .wrapper section.contact .blue {
-            bottom: -20px;
-        }
-        .wrapper section.contact .white {
-            bottom: -16px;
-        }
-        .wrapper section.contact {
-            height: 590px;
-            padding: 50px 0;
-        }
-        .wrapper footer.footer {
-            margin-top: 50px;
-        }
-    }
+    /*@media (min-width: 1200px) and (max-width: 1439px) {*/
+    /*    .wrapper header.header {*/
+    /*        background-size: 100% auto;*/
+    /*        height: auto;*/
+    /*    }*/
+    /*    .wrapper header.header .header-text {*/
+    /*        padding-top: 45px;*/
+    /*    }*/
+    /*    .wrapper header.header .blue {*/
+    /*        bottom: -178px;*/
+    /*    }*/
+    /*    .wrapper header.header .white {*/
+    /*        bottom: -205px;*/
+    /*    }*/
+    /*    .wrapper header.header .header-text button {*/
+    /*        margin-bottom: 80px;*/
+    /*    }*/
+    /*    .wrapper section.development {*/
+    /*        padding-bottom: 205px;*/
+    /*    }*/
+    /*    .wrapper section.development .white {*/
+    /*        bottom: -83px;*/
+    /*    }*/
+    /*    .wrapper section.development .blue {*/
+    /*        bottom: -60px;*/
+    /*    }*/
+    /*    .wrapper section.development {*/
+    /*        height: 600px;*/
+    /*        overflow: hidden;*/
+    /*    }*/
+    /*    .wrapper section.portfolia .portfolio-part .overlay-slide h2 {*/
+    /*        margin-top: 75px;*/
+    /*    }*/
+    /*    .wrapper section.portfolia .portfolio-part .overlay-slide h2::before {*/
+    /*        width: 265px;*/
+    /*    }*/
+    /*    .wrapper section.portfolia .portfolio-part .overlay-slide {*/
+    /*        height: 281px;*/
+    /*    }*/
+    /*    .wrapper section.contact .blue {*/
+    /*        bottom: -20px;*/
+    /*    }*/
+    /*    .wrapper section.contact .white {*/
+    /*        bottom: -16px;*/
+    /*    }*/
+    /*    .wrapper section.contact {*/
+    /*        height: 590px;*/
+    /*        padding: 50px 0;*/
+    /*    }*/
+    /*    .wrapper footer.footer {*/
+    /*        margin-top: 50px;*/
+    /*    }*/
+    /*}*/
     
     @media (min-width: 992px) and (max-width: 1199px) {
         .wrapper header.header {
